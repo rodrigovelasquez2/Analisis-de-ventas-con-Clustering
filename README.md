@@ -22,7 +22,7 @@ El mismo se baso en los siguientes puntos
 
 **Promedio de ventas por Mes y Cluster**
 - El siguiente gráfico fue realizo en el ambiente de Google Colab
-![Informe operativo](/images/Promedio_de_ventas_por_mes-FRAGANCE.png)
+![Informe operativo](/images//PromedioVentasMes-FRAGANCE.png)
 
 
 
