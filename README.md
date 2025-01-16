@@ -11,4 +11,19 @@ El mismo se baso en los siguientes puntos
 - **Google Colab**
 
 ## Resultados
-![Descripción de la Imagen](/image/nombre-de-la-imagen.png)
+
+**Informe realizado en POWER BI**
+![Informe operativo](/images/Dashboard-.PNG)
+
+
+**Informe realizado en POWER BI**
+- Este informe busca identificar mediante el uso de clusteres los grupos con mayor consistencia y desempeño en términos de ventas.
+![Informe operativo](/images/Clustering.PNG)
+
+**Promedio de ventas por Mes y Cluster**
+- El siguiente gráfico fue realizo en el ambiente de Google Colab
+![Informe operativo](/images/Promedio_de_ventas_por_mes-FRAGANCE.png)
+
+
+
+
